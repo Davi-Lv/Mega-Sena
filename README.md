@@ -1,6 +1,6 @@
 # Projeto Mega Sena
 
-Este projeto foi criado com o objetivo de aplicar e desenvolver meus conhecimentos em JavaScript. Ele simula o jogo da Mega Sena, permitindo que o usuário escolha 6 números entre os 60 disponíveis de acordo com as regras da Mega Sena. Além disso, ele oferece a opção de gerar uma escolha aleatória dos números e salvar essa escolha em uma lista.
+Este projeto foi criado com o objetivo de aplicar e desenvolver meus conhecimentos em JavaScript. Ele simula o jogo da Mega Sena, permitindo que o usuário escolha 6 números entre os 60 disponíveis de acordo com as regras do jogo. Além disso, ele oferece a opção de gerar uma escolha aleatória dos números e salvar essa escolha em uma lista.
 
 ## Tecnologias utilizadas
 - JavaScript
